@@ -5,8 +5,14 @@ The app’s design language is consistent across all screens, featuring a clean 
 
 Core Features and User Flow:
 •	Personalized Onboarding: The user journey begins with a welcoming splash screen and an intuitive sign-up/login flow. Users can create a profile that tracks their "Skincare Journey" and view personalized stats like "Days Active" and "Products Tried."
+
 •	Intelligent Skin Analysis: A standout feature is the "Your Skin Health" screen, which provides a visual breakdown of a user's skin condition based on metrics like "Acne" and "Moisture." This feature adds a data-driven, personalized element to the routine tracking.
+
 •	Routine and Reminder Management: Beaulog allows users to easily create and manage their skincare routines. The "Upcoming Reminders" screen ensures users stay on track with their regimen by providing a clear, chronological list of daily routines.
+
 •	Integrated E-commerce: The app seamlessly incorporates a full shopping experience. Users can browse and explore products within categories, add them to a dedicated "Shopping Cart," and complete their purchase through a secure "Payment" screen. The experience is finalized with a clear "Thank You!" screen that confirms the order and provides useful follow-up actions.
+
 •	Professional Connectivity: For users seeking expert advice, the "My Dermatologists" screen offers a list of rated professionals, adding a layer of trust and functionality that sets the app apart.
+
+
 In summary, Beaulog's UI is a successful blend of aesthetic appeal and robust functionality. It provides a complete solution for skincare management, from personalized tracking and professional consultation to a fully integrated product marketplace, all presented through a clean, intuitive, and visually engaging design.
